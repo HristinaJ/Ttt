@@ -1,4 +1,3 @@
 # Ttt
-========
 
-TicTacToe - JavaScript game
+TicTacToe - JavaScript game with Min-Max algorithm
