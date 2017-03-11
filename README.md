@@ -1,1 +1,3 @@
 # Ttt
+
+JavaScript game - TicTacToe
